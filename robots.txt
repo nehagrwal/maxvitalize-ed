@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/maxvitalize-ed/sitemap.xml
+Sitemap: https://maxvitalize-ed.vercel.app/sitemap-vercel.xml
+Sitemap: https://maxvitalize-ed.pages.dev/sitemap-cloudflare.xml
